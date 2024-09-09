@@ -1,0 +1,14 @@
+Test case 1 - 'abc' and 'bca' are permutations: True
+Test case 2 - '123' and '321' are permutations: True
+Test case 3 - '!@#' and '#@!' are permutations: True
+Test case 4 - 'abc' and 'def' are NOT permutations: False
+Test case 5 - 'abcd' and 'abc' are NOT permutations: False
+Test case 6 - '123' and '12' are NOT permutations: False
+Test case 7 - '' and '' are permutations: True
+Test case 8 - 'a' and '' are NOT permutations: False
+Test case 9 - '' and 'b' are NOT permutations: False
+
+----------------------------------------------------------------------
+Ran 9 tests
+
+OK
